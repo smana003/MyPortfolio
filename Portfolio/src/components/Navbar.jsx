@@ -12,7 +12,6 @@ const Navbar = () => {
     >
       <div className="w-full flex justify-between items-center max-w-7xl mx-auto">
 
-
       </div>
     </nav>
   )
